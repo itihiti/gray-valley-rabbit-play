@@ -1,0 +1,65 @@
+{
+  "scope": "visual_rabbit",
+  "build_id": "20261014T074623Z_ba8c6d1e",
+  "qa": false,
+  "entry_scene": "res://scenes/visual/rabbit_meadow.tscn",
+  "quality_profile": "desktop_reference",
+  "preset": "Web Rabbit",
+  "godot_version": "4.7.2.stable.official.ed1daf0bf",
+  "created_utc": "2026-10-14T07:46:42.373459+00:00",
+  "status": "EXPORTED_NOT_BROWSER_VERIFIED",
+  "rabbit_asset": "MISSING_ASSET (real GLB pending from art lead)",
+  "tests": {
+    "executed": 127,
+    "failed": 0,
+    "failures": [],
+    "scope": "visual_rabbit"
+  },
+  "files": [
+    {
+      "path": "index.apple-touch-icon.png",
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    {
+      "path": "index.audio.position.worklet.js",
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    {
+      "path": "index.audio.worklet.js",
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 5458,
+      "sha256": "2367ace5fc6a6b6c8740a91672902e75de8cfcb40e73781ebb5e923166c61dcd"
+    },
+    {
+      "path": "index.icon.png",
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    {
+      "path": "index.js",
+      "bytes": 279815,
+      "sha256": "33c94cb3175f3333b82e2a3be5e8e86f77986f0aa2042b1631f6367a4e5bb6ba"
+    },
+    {
+      "path": "index.pck",
+      "bytes": 447864,
+      "sha256": "5f4ccd333ef47e11054fca179f96c5f46328d6c5338febf166c4173a0c45d90f"
+    },
+    {
+      "path": "index.png",
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    },
+    {
+      "path": "index.wasm",
+      "bytes": 39514754,
+      "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+    }
+  ]
+}
